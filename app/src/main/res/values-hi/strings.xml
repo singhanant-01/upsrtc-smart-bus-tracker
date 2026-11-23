@@ -1,0 +1,63 @@
+
+<resources>
+    <string name="app_name">UPSRTC स्मार्ट बस ट्रैकर</string>
+    <string name="choose_language">अपनी भाषा चुनें</string>
+    <string name="select_language_message">जारी रखने के लिए अपनी पसंदीदा भाषा चुनें</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="continue_button">आगे बढ़ें</string>
+    <string name="passenger_dashboard">यात्री डैशबोर्ड</string>
+    <string name="welcome_passenger">स्वागत है! आप कहाँ जाना चाहते हैं?</string>
+    <string name="nearby_buses">मेरे पास बसें खोजें</string>
+    <string name="search_journey">अपनी यात्रा खोजें</string>
+    <string name="from">कहाँ से</string>
+    <string name="to">कहाँ तक</string>
+    <string name="search_buses">बसें खोजें</string>
+    <string name="waiting_alert">यात्री प्रतीक्षा अलर्ट</string>
+    <string name="recent_journeys">हाल की यात्राएँ</string>
+    <string name="choose_role_message">जारी रखने के लिए अपनी भूमिका चुनें</string>
+    <string name="passenger">यात्री</string>
+    <string name="driver_conductor">चालक / परिचालक</string>
+    <string name="driver_dashboard">चालक डैशबोर्ड</string>
+    <string name="welcome_driver">स्वागत है! यहाँ अपनी बस यात्रा प्रबंधित करें।</string>
+    <string name="start_trip">यात्रा शुरू करें</string>
+    <string name="trip_started">यात्रा शुरू हो गई</string>
+    <string name="end_trip">यात्रा समाप्त करें</string>
+    <string name="select_bus_route">बस मार्ग चुनें</string>
+    <string name="choose_route">अपना बस मार्ग चुनें</string>
+    <string-array name="bus_routes">
+        <item>बस मार्ग चुनें</item>
+        <item>गोरखपुर - लखनऊ</item>
+        <item>गोरखपुर - वाराणसी</item>
+        <item>लखनऊ - कानपुर</item>
+    </string-array>
+    <string name="select_route_first">कृपया पहले बस मार्ग चुनें।</string>
+    <string name="active_route">वर्तमान मार्ग: %1$s</string>
+    <string name="bus_registration">बस पंजीकरण संख्या</string>
+    <string name="enter_bus_number">बस पंजीकरण संख्या दर्ज करें</string>
+    <string name="active_bus">बस संख्या: %1$s</string>
+        <string name="admin_dashboard">प्रशासक डैशबोर्ड</string>
+        <string name="assign_bus_to_driver">ड्राइवर को बस आवंटित करें</string>
+        <string name="driver_firebase_uid">ड्राइवर Firebase UID</string>
+        <string name="bus_registration_hint">बस पंजीकरण संख्या</string>
+        <string name="route_id">रूट आईडी</string>
+        <string name="service_pattern_id">सेवा पैटर्न आईडी</string>
+        <string name="direction">दिशा</string>
+        <string name="assign_bus">बस आवंटित करें</string>
+        <string name="logout">लॉग आउट</string>
+        <string name="admin_access_denied">प्रशासक की अनुमति नहीं है</string>
+        <string name="verification_failed">सत्यापन विफल: %1$s</string>
+        <string name="fill_all_fields">कृपया सभी फ़ील्ड भरें</string>
+        <string name="bus_assigned_successfully">बस सफलतापूर्वक आवंटित की गई</string>
+        <string name="assignment_failed">बस आवंटित नहीं हो सकी: %1$s</string>
+    <string name="administrator">प्रशासक</string>
+    <string name="gorakhpur_to_lucknow">गोरखपुर से लखनऊ</string>
+    <string name="invalid_direction">कृपया सही दिशा चुनें।</string>
+    <string name="choose_assigned_bus">आवंटित बस चुनें</string>
+    <string name="confirm_assignment">आवंटन की पुष्टि करें</string>
+    <string name="assignment_pending">कृपया अपने बस आवंटन की पुष्टि करें।</string>
+    <string name="assignment_confirmed">बस आवंटन की सफलतापूर्वक पुष्टि हुई।</string>
+    <string name="no_assigned_buses">आपको अभी तक कोई बस आवंटित नहीं की गई है।</string>
+    <string name="assigned_route">आवंटित मार्ग: %1$s</string>
+
+</resources>

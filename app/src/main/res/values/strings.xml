@@ -1,3 +1,65 @@
 <resources>
     <string name="app_name">UPSRTC Smart Bus Tracker</string>
+    <string name="choose_language">Choose Your Language</string>
+    <string name="select_language_message">Select your preferred language to continue</string>
+    <string name="english">English</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="continue_button">Continue</string>
+    <string name="passenger_dashboard">Passenger Dashboard</string>
+    <string name="welcome_passenger">Welcome! Where would you like to go?</string>
+    <string name="nearby_buses">Find Buses Near Me</string>
+    <string name="search_journey">Search Your Journey</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="search_buses">Search Buses</string>
+    <string name="waiting_alert">Passenger Waiting Alert</string>
+    <string name="recent_journeys">Recent Journeys</string>
+    <string name="choose_role_message">Choose how you want to continue</string>
+    <string name="passenger">Passenger</string>
+    <string name="driver_conductor">Driver / Conductor</string>
+    <string name="driver_dashboard">Driver Dashboard</string>
+    <string name="welcome_driver">Welcome! Manage your bus journey here.</string>
+    <string name="start_trip">Start Trip</string>
+    <string name="trip_started">Trip Started</string>
+    <string name="end_trip">End Trip</string>
+    <string name="select_bus_route">Select Bus Route</string>
+    <string name="choose_route">Choose your bus route</string>
+    <string-array name="bus_routes">
+        <item>Choose Bus Route</item>
+        <item>Gorakhpur - Lucknow</item>
+        <item>Gorakhpur - Varanasi</item>
+        <item>Lucknow - Kanpur</item>
+    </string-array>
+    <string name="select_route_first">Please select a bus route first.</string>
+    <string name="active_route">Active Route: %1$s</string>
+    <string name="bus_registration">Bus Registration Number</string>
+    <string name="enter_bus_number">Enter bus registration number</string>
+    <string name="active_bus">Bus Number: %1$s</string>
+    <!-- Administrator Dashboard -->
+    <string name="admin_dashboard">Administrator Dashboard</string>
+    <string name="assign_bus_to_driver">Assign a bus to a driver</string>
+    <string name="driver_firebase_uid">Driver Firebase UID</string>
+    <string name="bus_registration_hint">Bus registration number</string>
+    <string name="route_id">Route ID</string>
+    <string name="service_pattern_id">Service Pattern ID</string>
+    <string name="direction">Direction</string>
+    <string name="assign_bus">Assign Bus</string>
+    <string name="logout">Logout</string>
+    <string name="admin_access_denied">Administrator access denied</string>
+    <string name="verification_failed">Verification failed: %1$s</string>
+    <string name="fill_all_fields">Please fill in all fields</string>
+    <string name="bus_assigned_successfully">Bus assigned successfully</string>
+    <string name="assignment_failed">Assignment failed: %1$s</string>
+    <string name="administrator">Administrator</string>
+    <string name="gorakhpur_to_lucknow">Gorakhpur to Lucknow</string>
+    <string name="invalid_direction">Please select a valid direction.</string>
+    <string name="choose_assigned_bus">Choose Assigned Bus</string>
+    <string name="confirm_assignment">Confirm Assignment</string>
+    <string name="assignment_pending">Please confirm your bus assignment.</string>
+    <string name="assignment_confirmed">Bus assignment confirmed successfully.</string>
+    <string name="no_assigned_buses">No buses have been assigned to you.</string>
+    <string name="assigned_route">Assigned Route: %1$s</string>
+
+
+
 </resources>

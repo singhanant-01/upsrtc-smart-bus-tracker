@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+/.idea/
+/node_modules/
+/recover-driver.cjs
+/rotate-driver-password.cjs
+/verify-driver.cjs
+/package.json
+/package-lock.json
